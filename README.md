@@ -1,10 +1,12 @@
 # Hi there! I'm Mahmmud Qatmh 👋
 
-![Robotics Tech Telemetry Banner]
+<p align="center">
+   
 <img width="750" height="250" alt="profile_hardware_telemetry" src="https://github.com/user-attachments/assets/9f31a2f8-a76f-4670-996f-b3c56c0d6bc9" />
 
+</p>
 
-### 🤖 Robotics Researcher & Embedded Systems Engineer
+### 🤖 Robotics & Autonomous Systems Engineer / Mechatronics Engineer
 I am a Master’s student in **Robotics and Autonomous Systems** at the **University of Turku (UTU)**. My work focuses on the intersection of embedded hardware acceleration, real-time control loops, and autonomous aerial platforms.
 
 ---
